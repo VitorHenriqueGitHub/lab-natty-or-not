@@ -5,7 +5,9 @@ O objetivo deste e-book, é guiar o leitor na jornada para aumentar a produtivid
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
+
 IA Generativa Leonardo AI para criar a arte visual do e-book;
+
 Ferramenta Libre Office para edição.
 
 ## 🧐 Processo de Criação
